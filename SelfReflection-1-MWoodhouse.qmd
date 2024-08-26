@@ -1,0 +1,58 @@
+---
+title: "Self-Reflection"
+author: "Murphy Woodhouse"
+format: html
+editor: visual
+---
+
+## Questions
+
+**About you**
+
+1.  Please tell me a little bit about your research interests and how you imagine integrating spatial data in your research.
+
+    -   I don't have any projects that could properly be described as research, but I am generally interested in being able to do more sophisticated visualizations for Boise State Public Radio. I am likely to focus on election data for my final project and other exercises.
+
+2.  How do you learn best, and what do you feel is your biggest strength as a student?
+
+    -   I like hands-on learning and immediately putting new skills to work so they firm up. My biggest strength as a student now is that I know what I want to learn and why.
+
+3.  If you want to, you can set a goal for this semester for something you want to work on in the context of this course (outside of the topic matter itself) – for example, using StackOverflow to get answers to analysis questions or using git to track progress on homeworks. If you choose to set this type of goal, what can you do to help support yourself in working toward that goal? How can I help you to meet this goal?
+
+    - I want to get proficient at ingesting, analyzing and visualizing state elections data 
+
+4.  You can, if you choose, also let me know if there is anything else you have going on this semester that you would like me to know about (e.g., field work, other courses, prepping your qualifying exam, working outside of assistantship).
+
+    - I am a full-time employee of Boise State Public Radio, and that is obviously going to be my principal priority. My supervisor is aware that I'm in this course, and happy to accomodate to a degree. However, it is easy to imagine my work getting in the way of super consistent attendance.
+
+**This Course**
+
+5.  Please tell me a little about your prior experience with R ("I use it all the time", "I am still learning", "I've never used it before"). What do you like most about working with R? What are the biggest obstacles for you when working with R?
+
+    - In my previous position with the Phoenix NPR affiliate, I used R regularly for mapping and other visualiation work. However, it has been a challenge to bake it into my regular at BSPR, which is something I am hoping to change. 
+
+6.  Describe your experience working with spatial data and GIS (either in R, or ArcGIS, or QGIS etc.). How do you tend to use spatial data (e.g., making maps, desiging field sampling, buidling stastical models)?
+
+    - Mostly mapping. Leaflet is probably package I use most consistently. 
+
+7.  How do you feel about taking this course (e.g., neutral, positive, negative) and why (e.g., aspects you are worried about, or looking forward to)?
+
+    - I'm very excited. My worries are mostly to do with the responsibilities I'll be juggling. 
+
+8.  After reviewing the syllabus, give some thought to your objectives for this course. Which parts of this course are going to be most useful to your research? What skills do you really want to focus on during the semester? Once you've given this some thought, craft 3-5 SMART objectives for you in this course. SMART objectives are **S**pecific (e.g., I want to make maps in R), **M**easurable (e.g., I want to build *3 maps displaying different elements of a location* in R), **A**chievable (e.g., I want to build 3 maps displaying different elements of a location *using ggplot*), **R**elevant (e.g., I want to build 3 maps displaying *social and ecological* elements of a location using ggplot), and **T**ime-bound (e.g., I want to build 3 maps displaying *social and ecological* elements of a location using ggplot *for the final project*). Try to think about your overall objectives for the course so that we can use to assess your final project. Remember, these objectives should be based in where you are now and where you'd like to be when the course ends. **If you're not sure how to answer this, schedule a meeting with me to chat about it**.
+
+    - I'm hoping to use this course to develop a number of scripts capable of reading, analyzing and visualizing state and regional results for the upcoming November election. Ideally, this would be within a standalone website that could be used by my station during the election. Obviously the election comes before the end of the semester. For the final project, I think it would be cool to do some additional statistical analysis, for example examining the relationship between things like household income and voting results. 
+
+9.  Given the grading 'contracts' laid out in the syllabus and your objectives above, what grade would you like to achieve in this course? How will you support yourself in achieving this grade? How can I help?
+
+    - I am just auditing this course, making a letter grade not terribly relevant. Nevertheless, I would like my final project to be rigourous, publishable analysis and visualization. That's how I will think of success in this class. 
+
+10. Are there topics on the syllabus that are particularly important for you? What is missing?
+
+    - I haven't learned R in formal settings much, so I'm mostly excited to just to go beyond my kinda ad hoc, pragmatic approach to learning. My statistics are also weak, so I'm looking forward to brushing the rust off of what remains from my undergraduate course forever ago. I feel like I don't know enough to know what's missing. 
+
+**Final Thoughts**
+
+11. Is there anything else you'd like me to know about you or that you want to know about the course?
+
+    - Just excited to be here! Thanks for working with me to get in!! 
